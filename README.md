@@ -8,16 +8,10 @@ I am a self taught programmer and cybersecurity enthusiast. I am always looking 
 My interests in programming, IT, and cybersecurity has given me inspiration to work in tech. I am looking forward to transitioning into this field of work as a Cybersecurity Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Configuration and Troubleshooting        | <a href="https://github.com/behan101/Network-Lab/blob/main/README.md">Network Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -51,5 +45,4 @@ My interests in programming, IT, and cybersecurity has given me inspiration to w
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network Lab
