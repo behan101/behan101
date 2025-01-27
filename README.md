@@ -11,7 +11,8 @@ My interests in programming, IT, and cybersecurity has given me inspiration to w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Configuration and Troubleshooting        | <a href="https://github.com/behan101/Network-Lab/blob/main/README.md">Network Lab</a>|
+| Network Configuration and Troubleshooting                   | <a href="https://github.com/behan101/Network-Lab/blob/main/README.md">Network Lab</a>|
+| Elastic Lab with Nmap, Data Visualization, and Alerts       | <a >Elastic SIEM Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
