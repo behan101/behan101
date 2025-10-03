@@ -37,6 +37,7 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Programming%20with%20JavaScript-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/Introduction%20to%20Front-End%20Development-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
