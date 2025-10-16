@@ -13,9 +13,10 @@ My interests in programming, IT, and cybersecurity has given me inspiration to w
 |-----------------------------------------------|----------------------------|
 | Network Configuration and Troubleshooting                   | <a href="https://github.com/behan101/Network-Lab/blob/main/README.md">Network Lab</a>|
 | Elastic Lab with Nmap, Data Visualization, and Alerts       | <a href="https://github.com/behan101/Elastic-Lab/blob/main/README.md">Elastic SIEM Lab</a>|
+| Microsoft Azure and Tenable                                 | <a href="https://github.com/behan101/Vulnerability-Management-Program/blob/main/README.md">Vulernability Management</a>|
 
 ## Tools
-Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language)
+Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language), Microsoft Azure, Tenable.
 
 ### Network
 <div>
