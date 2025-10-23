@@ -49,7 +49,3 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
 <img src="https://img.shields.io/badge/Responsive%20Web%20Design-4A4A4A?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 <img src="https://img.shields.io/badge/Business%20Analysis%20Foundations-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
-
-## Projects
-- Network Lab
-- Elastic SIEM Lab
