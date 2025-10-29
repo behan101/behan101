@@ -15,6 +15,7 @@ My interests in programming, IT, and cybersecurity has given me inspiration to w
 | Elastic Lab with Nmap, Data Visualization, and Alerts               | <a href="https://github.com/behan101/Elastic-Lab/blob/main/README.md">Elastic SIEM Lab</a>|
 | Microsoft Azure and Tenable                                         | <a href="https://github.com/behan101/Vulnerability-Management-Program/blob/main/README.md">Vulernability Management</a>|
 | KQL, Windows 11 VM, Microsoft Defender for Endpoint, Tor Browser    | <a href="https://github.com/behan101/Threat-Hunting-Scenario-Tor/blob/main/README.md">Threat Hunting Scenario - Tor</a>|
+| Windows 11 VM, Tenable, DISA, STIG, Audit, Compliance, PowerShell   | <a href="https://github.com/behan101/DISA-STIGs/blob/main/README.md">DISA-STIGs</a>|
 
 ## Tools
 Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language), Microsoft Azure, Tenable.
