@@ -9,7 +9,7 @@ My interests in programming, IT, and cybersecurity has given me inspiration to w
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Project        |
 |-----------------------------------------------|----------------------------|
 | Network Configuration and Troubleshooting                           | <a href="https://github.com/behan101/Network-Lab/blob/main/README.md">Network Lab</a>|
 | Elastic Lab with Nmap, Data Visualization, and Alerts               | <a href="https://github.com/behan101/Elastic-Lab/blob/main/README.md">Elastic SIEM Lab</a>|
