@@ -5,19 +5,20 @@ I am a self taught programmer and cybersecurity enthusiast. I am always looking 
 
 ## Objective
 
-My interests in programming, IT, and cybersecurity has given me inspiration to work in tech. I am looking forward to transitioning into this field of work as a Cybersecurity Analyst.
+My interests in programming, IT, and cybersecurity have given me inspiration to work in tech. I am looking forward to transitioning into this field of work as a Cybersecurity Analyst.
 
 ## Skills
 
-| Skills                                                                                       | Associated Project        |
-|----------------------------------------------------------------------------------------------|---------------------------|
-| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analysis of Logs | <a href="https://github.com/behan101/Threat-Hunt-Remote-Assistance">Threat Hunt: Remote Assistance</a>|
-| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analysis of Logs | <a href="https://github.com/behan101/Threat-Hunt-Port-of-Entry">Threat Hunt: Port of Entry</a>|
-| KQL, Windows 11 VM, Microsoft Defender for Endpoint, Tor Browser                             | <a href="https://github.com/behan101/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario - Tor</a>|
-| Microsoft Azure, Tenable                                                                     | <a href="https://github.com/behan101/Vulnerability-Management-Program">Vulernability Management</a>|
-| Windows 11 VM, Tenable, DISA, STIG, Audit, Compliance, PowerShell                            | <a href="https://github.com/behan101/DISA-STIGs">DISA-STIGs</a>|
-| Elastic, Linux, Nmap, Data Visualization, and Alerts                                         | <a href="https://github.com/behan101/Elastic-Lab">Elastic SIEM Lab</a>|
-| Network Configuration and Troubleshooting                                                    | <a href="https://github.com/behan101/Network-Lab">Network Lab</a>|
+| Skills                                                                                                   | Associated Project        |
+|----------------------------------------------------------------------------------------------------------|---------------------------|
+| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Cargo-Hold/">Threat Hunt: Cargo Hold</a>|
+| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Remote-Assistance">Threat Hunt: Remote Assistance</a>|
+| Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Port-of-Entry">Threat Hunt: Port of Entry</a>|
+| KQL, Windows 11 VM, Microsoft Defender for Endpoint, Tor Browser                                         | <a href="https://github.com/behan101/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario - Tor</a>|
+| Microsoft Azure, Tenable                                                                                 | <a href="https://github.com/behan101/Vulnerability-Management-Program">Vulernability Management</a>|
+| Windows 11 VM, Tenable, DISA, STIG, Audit, Compliance, PowerShell                                        | <a href="https://github.com/behan101/DISA-STIGs">DISA-STIGs</a>|
+| Elastic, Linux, Nmap, Data Visualization, and Alerts                                                     | <a href="https://github.com/behan101/Elastic-Lab">Elastic SIEM Lab</a>|
+| Network Configuration and Troubleshooting                                                                | <a href="https://github.com/behan101/Network-Lab">Network Lab</a>|
 
 ## Tools
 Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language), Microsoft Azure, Tenable.
