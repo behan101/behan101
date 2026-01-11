@@ -11,7 +11,7 @@ My interests in programming, IT, and cybersecurity have given me inspiration to 
 
 | Skills                                                                                                   | Associated Project        |
 |----------------------------------------------------------------------------------------------------------|---------------------------|
-| Azure, Linux, OpenPLC Runtime, Modbus TCP Protocol, Python Modbus client (pymodbus), Wireshark, tcpdump, Nmap, Python | <a href="https://github.com/behan101/OT-asset-inventory/">OT Asset Inventory, Modbus Traffic Analysis & Risk Assessment |
+| Azure, Linux, OpenPLC Runtime, Modbus TCP Protocol, Python Modbus client (pymodbus), Wireshark, tcpdump, Nmap, Python | <a href="https://github.com/behan101/OT-asset-inventory/">OT Asset Inventory: Modbus Traffic Analysis & Risk Assessment |
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Cargo-Hold/">Threat Hunt: Cargo Hold</a>|
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Remote-Assistance">Threat Hunt: Remote Assistance</a>|
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Port-of-Entry">Threat Hunt: Port of Entry</a>|
