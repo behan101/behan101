@@ -11,6 +11,7 @@ My interests in programming, IT, and cybersecurity have given me inspiration to 
 
 | Skills                                                                                                   | Associated Project        |
 |----------------------------------------------------------------------------------------------------------|---------------------------|
+| Azure, Linux, OpenPLC Runtime, Modbus TCP Protocol, Python Modbus client (pymodbus), Wireshark, tcpdump, Nmap, Python | <a href="https://github.com/behan101/OT-asset-inventory/">OT Asset Inventory, Modbus Traffic Analysis & Risk Assessment |
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Cargo-Hold/">Threat Hunt: Cargo Hold</a>|
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Remote-Assistance">Threat Hunt: Remote Assistance</a>|
 | Microsoft Defender, KQL, Digital Forensics, Azure, MITRE ATT&CK, Behavioral Analytics, Incident Response | <a href="https://github.com/behan101/Threat-Hunt-Port-of-Entry">Threat Hunt: Port of Entry</a>|
@@ -21,7 +22,7 @@ My interests in programming, IT, and cybersecurity have given me inspiration to 
 | Network Configuration and Troubleshooting                                                                | <a href="https://github.com/behan101/Network-Lab">Network Lab</a>|
 
 ## Tools
-Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language), Microsoft Azure, Tenable.
+Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language), Microsoft Azure, Tenable, Wireshark, tcpdump, pymodbus, OpenPLC Runtime.
 
 ### Network
 <div>
